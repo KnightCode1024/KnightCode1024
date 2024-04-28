@@ -1,4 +1,4 @@
-# Hi there, I'm K1r1ll
+# Hi, I'm K1r1ll
 
 ## Languages and tools 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>&nbsp; 
