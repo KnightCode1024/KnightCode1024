@@ -13,6 +13,9 @@
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%2307405e.svg?style=for-the-badge&logo=postgreSQL&logoColor=white)<br>
 
 # ⚙️ Backend разработчик
+<a href="https://t.me/K_1_R_1_1_1">Телеграм</a><br>
+<a href="mailto:n17k17@yandex.ru">Почта</a>
+
 
 # 📊 Статистика :
 <div style="width: 400px">
