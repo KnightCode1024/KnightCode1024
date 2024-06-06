@@ -16,7 +16,6 @@
 <a href="https://t.me/K_1_R_1_1_1">Телеграм</a><br>
 <a href="mailto:n17k17@yandex.ru">Почта</a>
 
-
 # 📊 Статистика :
 <div style="width: 400px">
 <img src="https://github-readme-stats.vercel.app/api?username=K1r1ll-Nickitin117&theme=dark&hide_border=false&include_all_commits=true&count_private=false"><br>
