@@ -12,6 +12,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%2307405e.svg?style=for-the-badge&logo=postgreSQL&logoColor=white)<br>
 
+# ⚙️ Backend разработчик
+
 # 📊 Статистика :
 <div style="width: 400px">
 <img src="https://github-readme-stats.vercel.app/api?username=K1r1ll-Nickitin117&theme=dark&hide_border=false&include_all_commits=true&count_private=false"><br>
