@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Кирилл👋</h1>
 
 # 💻 Языки и Технологии 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,html,css,bootstrap,react,sqlite,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,ts,html,css,bootstrap,react,sqlite,postgres,git)](https://skillicons.dev)
 
 # ⚙️ Backend разработчик
 <a href="https://t.me/K_1_R_1_1_1">Телеграм</a><br>
