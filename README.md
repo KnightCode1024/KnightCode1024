@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,ts,html,css,bootstrap,react,sqlite,postgres,git)](https://skillicons.dev)
 
 # ⚙️ Backend разработчик
-<a href="https://t.me/K_1_R_1_1_1">Телеграм</a><br>
+<a href="https://t.me/nkirill_tg">Телеграм</a><br>
 <a href="mailto:n17k17@yandex.ru">Почта</a>
 
 # 📊 Статистика :
