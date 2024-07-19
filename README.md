@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrakenN7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br>
 </div> -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrakenN7&dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrakenN7&dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrakenN7&dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrakenN7&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrakenN7&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrakenN7&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrakenN7&theme=dark)
