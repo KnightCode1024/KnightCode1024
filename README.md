@@ -15,6 +15,6 @@
 </div> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrakenN7&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dKrakenN7&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrakenN7&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrakenN7&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrakenN7&theme=solarized_dark)
