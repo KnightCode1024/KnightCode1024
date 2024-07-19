@@ -8,8 +8,13 @@
 <a href="mailto:n17k17@yandex.ru">Почта</a>
 
 # 📊 Статистика :
-<div style="width: 400px">
-<img src="https://github-readme-stats.vercel.app/api?username=K1r1ll-Nickitin117&theme=dark&hide_border=false&include_all_commits=true&count_private=false"><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=K1r1ll-Nickitin117&theme=dark&hide_border=false"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1r1ll-Nickitin117&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br>
-</div>
+<!--<div style="width: 400px">
+<img src="https://github-readme-stats.vercel.app/api?username=KrakenN7&theme=dark&hide_border=false&include_all_commits=true&count_private=false"><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrakenN77&theme=dark&hide_border=false"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrakenN7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br>
+</div> -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrakenN7&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dKrakenN7&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrakenN7&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrakenN7&theme=solarized_dark)
