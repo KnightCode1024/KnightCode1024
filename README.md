@@ -4,7 +4,7 @@
 <!--[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,html,css,vue,mysql,sqlite,postgres,git)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,html,css,vue,mysql,sqlite,postgres,git)](https://skillicons.dev)-->
-- <img href="(https://skillicons.dev/icons?i=python">, Flask, FastApi, Django
+- <img src="https://skillicons.dev/icons?i=python"> Flask, FastApi, Django
 - Html, Css, Js, Vue
 - Postgres, MySQL, Sqlite 
 -
