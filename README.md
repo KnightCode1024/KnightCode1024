@@ -1,7 +1,14 @@
 <h1 align="center">Привет, я Кирилл👋</h1>
 
-# 💻 Языки и Технологии 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,html,css,vue,mysql,sqlite,postgres,git)](https://skillicons.dev)
+ 💻 Языки и Технологии 
+<!--[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,html,css,vue,mysql,sqlite,postgres,git)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,django,js,html,css,vue,mysql,sqlite,postgres,git)](https://skillicons.dev)-->
+- <img href="(https://skillicons.dev/icons?i=python">, Flask, FastApi, Django
+- Html, Css, Js, Vue
+- Postgres, MySQL, Sqlite 
+-
+
 
 # ⚙️ Backend разработчик
 <a href="https://t.me/nkirill_tg">Телеграм</a><br>
