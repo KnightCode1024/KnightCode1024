@@ -10,7 +10,6 @@
 - <img src="https://skillicons.dev/icons?i=html">
   <img src="https://skillicons.dev/icons?i=css">
   <img src="https://skillicons.dev/icons?i=js">
-  <img src="https://skillicons.dev/icons?i=vue">
   
 - <img src="https://skillicons.dev/icons?i=postgres">
   <img src="https://skillicons.dev/icons?i=mysql">
