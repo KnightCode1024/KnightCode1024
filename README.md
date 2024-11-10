@@ -2,9 +2,8 @@
 <h1>Привет, я Кирилл</h1>
 </header>
 <nav>
-<ul>
-<li><a href="https://t.me/nkirill_tg">Телеграм</a></li>
-<li><a href="mailto:nikitinn.kir@gmail.com">Почта</a></li>
+<a href="https://t.me/nkirill_tg">Телеграм</a>
+<a href="mailto:nikitinn.kir@gmail.com">Почта</a>
 <ul>
 </nav>
 <main>
