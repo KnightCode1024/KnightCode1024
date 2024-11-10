@@ -16,6 +16,7 @@
 <img src="https://skillicons.dev/icons?i=sqlite">
 <img src="https://skillicons.dev/icons?i=html">
 <img src="https://skillicons.dev/icons?i=css">
+<img src="https://skillicons.dev/icons?i=bootstrap">
 </p>
 <!--   <img src="https://skillicons.dev/icons?i=mysql"> -->
 <!--   <img src="https://skillicons.dev/icons?i=flask"> -->
@@ -33,8 +34,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrakenN77&theme=dark"> -->
 </footer>
 
-<!-- <h1>📊 Статистика :<h1>
+<h2>Статистика :<h2>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrakenN7&theme=dark">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrakenN7&theme=dark">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrakenN7&theme=dark">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrakenN7&theme=dark"> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrakenN7&theme=dark">
