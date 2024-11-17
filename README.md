@@ -7,7 +7,7 @@
 <ul>
 </nav>
 <main>
-<h2>Мой стэк</h2>
+<h2>Технологии</h2>
 <p>
 <img src="https://skillicons.dev/icons?i=python">
 <img src="https://skillicons.dev/icons?i=django">
