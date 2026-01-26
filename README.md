@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/nikitinkirill/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
   </a>
-  <a href=https://gitlab.com/kkkkkknn"">
+  <a href=https://gitlab.com/kkkkkknn">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab"/>
   </a>
 
