@@ -65,7 +65,6 @@
         <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true&perline=7" alt="Docker" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx&titles=true&perline=7" alt="Nginx" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true&perline=7" alt="Linux" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&titles=true&perline=7" alt="GitHub Actions" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=github&titles=true&perline=7" alt="GitHub" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&titles=true&perline=7" alt="GitLab" height="45">
       </td>
@@ -85,6 +84,7 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&titles=true&perline=5" alt="RabbitMQ" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&titles=true&perline=5" alt="Kubernetes" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=5" alt="C++" height="45">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&titles=true&perline=5" alt="GitHub Actions" height="45">
     </td>
     </tr>
   </table>
