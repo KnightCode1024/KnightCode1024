@@ -37,7 +37,6 @@
         <img src="https://go-skill-icons.vercel.app/api/icons?i=django&titles=true&perline=5" alt="Django" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=aiogram&titles=true&perline=5" alt="Aiogram" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&titles=true&perline=5" alt="Flask" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=react&titles=true&perline=5" alt="React" height="45">
       </td>
     </tr>
     <tr>
