@@ -53,7 +53,8 @@
     <tr>
       <td><h4>Очереди</h4></td>
       <td>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=celery&titles=true&perline=2" alt="Celery" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=celery&titles=true&perline=5" alt="Celery" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&titles=true&perline=5" alt="RabbitMQ" height="45">
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&titles=true&perline=2" alt="RabbitMQ" height="45"> -->
       </td>
     </tr>
@@ -77,14 +78,13 @@
     </td>
     </tr>
      <tr>
-    <td><h4>В планах</h4></td>
+    <!-- <td><h4>В планах</h4></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest&titles=true&perline=5" alt="Pytest" height="45">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&titles=true&perline=5" alt="RabbitMQ" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&titles=true&perline=5" alt="Kubernetes" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=5" alt="C++" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&titles=true&perline=5" alt="GitHub Actions" height="45">
-    </td>
+    </td> -->
     </tr>
   </table>
 </div>
