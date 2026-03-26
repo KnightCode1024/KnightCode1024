@@ -61,12 +61,13 @@
     <tr>
       <td><h4>Инструменты</h4></td>
       <td>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=git&titles=true&perline=7" alt="Git" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true&perline=7" alt="Docker" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx&titles=true&perline=7" alt="Nginx" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true&perline=7" alt="Linux" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=github&titles=true&perline=7" alt="GitHub" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&titles=true&perline=7" alt="GitLab" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=git&titles=true&perline=17" alt="Git" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true&perline=17" alt="Docker" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx&titles=true&perline=17" alt="Nginx" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true&perline=17" alt="Linux" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=github&titles=true&perline=17" alt="GitHub" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&titles=true&perline=17" alt="GitLab" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&titles=true&perline=17" alt="GitLab" height="45">
       </td>
     </tr>
       <tr>
