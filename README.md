@@ -7,9 +7,6 @@
   <a href="mailto:n17k17@yandex.ru">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/nikitinkirill/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
-  </a>
   <a href="https://gitlab.com/kkkkkknn">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab"/>
   </a>
@@ -25,8 +22,8 @@
       <td><h4>Языки</h4></td>
       <td>
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true&perline=4" alt="Python" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true&perline=4" alt="JavaScript" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&titles=true&perline=4" alt="Go" height="45">
+        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true&perline=4" alt="JavaScript" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&titles=true&perline=4" alt="Go" height="45"> -->
         <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=4" alt="C++" height="45"> -->
       </td>
     </tr>
@@ -44,8 +41,8 @@
       <td>
         <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy&titles=true&perline=6" alt="SQLAlchemy" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&titles=true&perline=6" alt="PostgreSQL" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true&perline=6" alt="MySQL" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&titles=true&perline=6" alt="SQLite" height="45">
+        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true&perline=6" alt="MySQL" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&titles=true&perline=6" alt="SQLite" height="45"> -->
         <img src="https://go-skill-icons.vercel.app/api/icons?i=s3&titles=true&perline=6" alt="AWS S3" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&titles=true&perline=6" alt="Redis" height="45">
       </td>
@@ -71,12 +68,12 @@
       </td>
     </tr>
       <tr>
-    <td><h4>Веб</h4></td>
+    <!-- <td><h4>Веб</h4></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react&titles=true&perline=5" alt="React" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html&titles=true&perline=5" alt="HTML" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=css&titles=true&perline=5" alt="CSS" height="45">
-    </td>
+    </td> -->
     </tr>
      <tr>
     <!-- <td><h4>В планах</h4></td>
