@@ -7,9 +7,9 @@
   <a href="mailto:n17k17@yandex.ru">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
   </a>
-  <a href="https://gitlab.com/kkkkkknn">
+  <!-- <a href="https://gitlab.com/kkkkkknn">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab"/>
-  </a>
+  </a> -->
 
   <h2>Обо мне</h2>
   <p>Python backend-разработчик с опытом создания веб-приложений. Специализируюсь на FastAPI и Django. Стремлюсь писать чистый, эффективный и поддерживаемый код.</p>
