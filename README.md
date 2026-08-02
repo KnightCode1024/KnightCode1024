@@ -22,9 +22,9 @@
       <td><h4>Языки</h4></td>
       <td>
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true&perline=4" alt="Python" height="45">
-        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true&perline=4" alt="JavaScript" height="45">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&titles=true&perline=4" alt="Go" height="45"> -->
-        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=4" alt="C++" height="45"> -->
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true&perline=4" alt="JavaScript" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&titles=true&perline=4" alt="Go" height="45">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=4" alt="C++" height="45">
       </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@
       <td>
         <img src="https://go-skill-icons.vercel.app/api/icons?i=celery&titles=true&perline=5" alt="Celery" height="45">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&titles=true&perline=5" alt="RabbitMQ" height="45">
-        <!-- <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&titles=true&perline=2" alt="RabbitMQ" height="45"> -->
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka&titles=true&perline=5" alt="Kafka" height="45">
       </td>
     </tr>
     <tr>
@@ -68,21 +68,14 @@
       </td>
     </tr>
       <tr>
-    <!-- <td><h4>Веб</h4></td>
+    <td><h4>Веб</h4></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react&titles=true&perline=5" alt="React" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html&titles=true&perline=5" alt="HTML" height="45">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=css&titles=true&perline=5" alt="CSS" height="45">
-    </td> -->
+    </td>
     </tr>
      <tr>
-    <!-- <td><h4>В планах</h4></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest&titles=true&perline=5" alt="Pytest" height="45">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&titles=true&perline=5" alt="Kubernetes" height="45">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true&perline=5" alt="C++" height="45">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&titles=true&perline=5" alt="GitHub Actions" height="45">
-    </td> -->
     </tr>
   </table>
 </div>
